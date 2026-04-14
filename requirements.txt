@@ -1,0 +1,25 @@
+# Kafka
+confluent-kafka==2.3.0
+
+# Data processing
+pyspark==3.5.1
+delta-spark==3.2.0
+pandas==2.2.2
+pyarrow==16.0.0
+duckdb==0.10.3
+
+# ClickHouse
+clickhouse-connect==0.7.16
+
+# Data generation
+faker==25.2.0
+
+# Schema validation
+jsonschema==4.22.0
+
+# LLM NL Query
+anthropic==0.28.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
